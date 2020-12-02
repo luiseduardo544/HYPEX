@@ -1,0 +1,21 @@
+{
+  "name": "hypex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord-command-parser": "^1.5.3",
+    "discord.js": "^12.5.1",
+    "heroku": "^7.47.4",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2"
+  }
+}
